@@ -9,10 +9,3 @@ Exemplo:
 idade = int(input("digite a sua idade:"))
 if idade > 17:
     print("Pode entar na festa")
-
-Estrutura de seleção composta.
-
-Exemplos
-
-se <expressão-lógica> então:
-    <sequência-de-comandos-1>
