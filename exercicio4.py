@@ -5,5 +5,5 @@ if valor1 == valor2:
     print("Os valores são iguais, tente novamente.")
 elif valor1 > valor2:
     print(f"A ordem crescente é {valor2} e {valor1}.")
-elif valor2 > valor1:
+else:
     print(f"A ordem crescente é {valor1} e {valor2}.")
